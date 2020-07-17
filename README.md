@@ -2,7 +2,7 @@
   <img height="250" src="https://github.com/liweiyap/liweiyap/blob/master/logo-black-background-white.png">
 </p>
 
-Hi, I'm Li-Wei! :wave: I'm a self-taught programmer and I work as a junior software developer at a start-up. My goal is to become a more creative problem solver.
+Hi, I'm Li-Wei (力为)! :wave: I'm a self-taught programmer and I work as a junior software developer at a start-up. My goal is to become a more creative problem solver.
 
 I'm comfortable in:
 <p float="left">

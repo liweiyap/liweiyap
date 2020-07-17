@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="200" src="https://github.com/liweiyap/liweiyap/blob/master/logo-black-background-white.png">
+  <img height="250" src="https://github.com/liweiyap/liweiyap/blob/master/logo-black-background-white.png">
 </p>
 
 Hi, I'm Li-Wei! :wave: I'm a self-taught programmer and I work as a junior software developer. My goal is to become a more creative problem solver.

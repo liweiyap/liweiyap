@@ -2,7 +2,7 @@
   <img height="250" src="https://github.com/liweiyap/liweiyap/blob/master/logo-black-background-white.png">
 </p>
 
-Hi, I'm Li-Wei! :wave: I'm a self-taught programmer and I work as a junior software developer. My goal is to become a more creative problem solver.
+Hi, I'm Li-Wei! :wave: I'm a self-taught programmer and I work as a junior software developer at a start-up. My goal is to become a more creative problem solver.
 
 I'm comfortable in:
 <p float="left">
@@ -34,7 +34,7 @@ I wish to learn:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/androidstudio.svg" height="40"/>
 </p>
 
-Let's connect!
+Let's connect! :smile:
 <p float="left">
   <a href="mailto:liweiyap@gmail.com">
     <img align="left" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
@@ -43,18 +43,3 @@ Let's connect!
     <img align="center" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
 </p>
-
-<!--
-**liweiyap/liweiyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

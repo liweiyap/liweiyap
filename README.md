@@ -6,32 +6,68 @@ Hi, I'm Li-Wei (力为)! :wave: I'm a [self-taught](https://www.quora.com/What-d
 
 I'm comfortable in:
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cplusplus.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cmake.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/qt.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/r.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mathworks.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linux.svg" height="40"/>
+  <a href="https://en.cppreference.com/w/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cplusplus.svg" height="40"/>
+  </a>
+  <a href="https://cmake.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cmake.svg" height="40"/>
+  </a>
+  <a href="https://www.qt.io/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/qt.svg" height="40"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gnubash.svg" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/r.svg" height="40"/>
+  </a>
+  <a href="https://uk.mathworks.com/products/matlab.html">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mathworks.svg" height="40"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linux.svg" height="40"/>
+  </a>
 </p>
 
 I've basic knowledge of:
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/raspberrypi.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/jekyll.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/inkscape.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/latex.svg" height="40"/>
+  <a href="https://www.raspberrypi.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/raspberrypi.svg" height="40"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" height="40"/>
+  </a>
+  <a href="https://jekyllrb.com/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/jekyll.svg" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" height="40"/>
+  </a>
+  <a href="https://inkscape.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/inkscape.svg" height="40"/>
+  </a>
+  <a href="https://www.latex-project.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/latex.svg" height="40"/>
+  </a>
 </p>
 
 I wish to learn:
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/swift.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/androidstudio.svg" height="40"/>
+  <a href="https://swift.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/swift.svg" height="40"/>
+  </a>
+  <a href="https://www.java.com/en/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/androidstudio.svg" height="40"/>
+  </a>
 </p>
 
 Let's connect! :smile:

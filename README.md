@@ -2,7 +2,9 @@
   <img height="250" src="https://github.com/liweiyap/liweiyap/blob/master/logo-black-background-white-bigger.png">
 </p>
 
-Hi, I'm Li-Wei (力为)! :wave: I'm a [self-taught](https://www.quora.com/What-does-it-mean-to-be-a-self-taught-programmer#:~:text=It%20means%20that%20you%20did%20not%20go%20to%20college%20for%20Computer%20Science.&text=However%2C%20whether%20you%20are%20a,taught%20to%20you%20in%20school.) junior developer working at a start-up. My goal is to become a more creative problem solver.
+<p align="justify">
+Hi, I'm Li-Wei (力为)! :wave: I'm a <a href="https://www.quora.com/What-does-it-mean-to-be-a-self-taught-programmer#:~:text=It%20means%20that%20you%20did%20not%20go%20to%20college%20for%20Computer%20Science.&text=However%2C%20whether%20you%20are%20a,taught%20to%20you%20in%20school.">self-taught</a> junior developer working at a start-up. My goal is to become a more creative problem solver.
+</p>
 
 I'm comfortable in:
 <p float="left">

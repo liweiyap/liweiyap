@@ -3,7 +3,7 @@
 </p>
 
 <p align="justify">
-Hi, I'm Li-Wei (力为)! :wave: I'm a <a href="https://www.quora.com/What-does-it-mean-to-be-a-self-taught-programmer#:~:text=It%20means%20that%20you%20did%20not%20go%20to%20college%20for%20Computer%20Science.&text=However%2C%20whether%20you%20are%20a,taught%20to%20you%20in%20school.">self-taught</a> junior developer. My goal is to become a more creative problem solver.
+Hi, I'm Li-Wei (力为)! <img width="25px" src="https://github.com/liweiyap/liweiyap/blob/master/waving-hand.gif"> I'm a <a href="https://www.quora.com/What-does-it-mean-to-be-a-self-taught-programmer#:~:text=It%20means%20that%20you%20did%20not%20go%20to%20college%20for%20Computer%20Science.&text=However%2C%20whether%20you%20are%20a,taught%20to%20you%20in%20school.">self-taught</a> junior developer. My goal is to become a more creative problem solver.
 </p>
 
 I'm comfortable in:

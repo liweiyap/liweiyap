@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="250" src="https://github.com/liweiyap/liweiyap/blob/master/logo-black-background-white-bigger.png">
+  <img height="250" src="assets/logo-darkgrey-background-lightgrey.svg">
 </p>
 
 <p align="justify">

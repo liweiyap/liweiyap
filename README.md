@@ -8,7 +8,7 @@ Hi, I'm Li-Wei (力为)! <img width="25px" src="https://github.com/liweiyap/liwe
 
 I'm comfortable in:
 <p float="left">
-  <a href="https://en.cppreference.com/w/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cplusplus.svg" height="40"/></a>
+  <a href="https://en.cppreference.com/w/"><img src="assets/cplusplus-grey.svg" height="40"/></a>
   <a href="https://cmake.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cmake.svg" height="40"/></a>
   <a href="https://www.qt.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/qt.svg" height="40"/></a>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" height="40"/></a>

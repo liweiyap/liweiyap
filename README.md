@@ -38,7 +38,7 @@ I wish to learn:
 
 Let's connect! :smile:
 <p float="left">
-  <a href="mailto:liweiyap@gmail.com"><img align="left" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
-  <a href="https://www.linkedin.com/in/liweiyap/"><img align="center" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-  <a href="https://open.spotify.com/playlist/0YxZJLaybfLprUoSN1QXp9?si=4j3R2m77QiGd_3RvUxL-RA" target="_blank"><img align="right" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg"/></a>
+  <a href="mailto:liweiyap@gmail.com"><img align="left" height="40" src="assets/gmail-grey.svg"/></a>
+  <a href="https://www.linkedin.com/in/liweiyap/"><img align="center" height="40" src="assets/linkedin-grey.svg"/></a>
+  <a href="https://open.spotify.com/playlist/0YxZJLaybfLprUoSN1QXp9?si=4j3R2m77QiGd_3RvUxL-RA" target="_blank"><img align="right" height="40" src="assets/spotify-grey.svg"/></a>
 </p>

@@ -12,6 +12,7 @@ I'm comfortable in:
   <a href="https://www.java.com/en/"><img src="assets/java-grey.svg" height="40"/></a>
   <a href="https://developer.android.com/studio"><img src="assets/androidstudio-grey.svg" height="40"/></a>
   <a href="https://cmake.org/"><img src="assets/cmake-grey.svg" height="40"/></a>
+  <a href="https://gradle.org/"><img src="assets/gradle-grey.svg" height="40"/></a>
   <a href="https://www.python.org/"><img src="assets/python-grey.svg" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="assets/gnubash-grey.svg" height="40"/></a>
   <a href="https://www.qt.io/"><img src="assets/qt-grey.svg" height="40"/></a>

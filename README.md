@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="250" src="assets/logoPaths-noCircle-darkgrey-background-white.svg">
+  <img height="150px" src="assets/logoPaths-noCircle-darkgrey-background-white.svg">
 </p>
 
 <p align="justify">

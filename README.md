@@ -3,7 +3,7 @@
 </p>
 
 <p align="justify">
-Hi, I'm Li-Wei (力为)! <img width="25px" src="assets/waving-hand.gif"> I'm a junior developer who has transitioned from a background in computational biology. My goal is to become a more creative problem solver.
+Hi, I'm Li-Wei (力为)! <img width="25px" src="assets/waving-hand.gif"> I'm a software developer who started out in computational biology. My goal is to become a more creative problem solver.
 </p>
 
 I'm comfortable in:

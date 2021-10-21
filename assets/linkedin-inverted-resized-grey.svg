@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="linkedin-inverted-grey.svg"
+   id="svg837"
+   version="1.1"
+   viewBox="0 0 24 24"
+   role="img"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LinkedIn icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg837"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:cy="15.021479"
+     inkscape:cx="8.3486514"
+     inkscape:zoom="16.409836"
+     showgrid="false"
+     id="namedview839"
+     inkscape:window-height="773"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0" />
+  <title
+     id="title833">LinkedIn icon</title>
+  <path
+     id="path835"
+     style="fill:#4d4c4e;fill-opacity:1;stroke-width:1.39094"
+     d="m 2.9100531,0.07491726 c -1.5898478,0 -2.87153645,1.28592674 -2.87153645,2.86881974 0,1.584284 1.28029765,2.8742532 2.87153645,2.8742532 1.584284,-10e-8 2.8688198,-1.2899692 2.8688198,-2.8742532 0,-1.582893 -1.2831448,-2.86881974 -2.8688198,-2.86881974 z M 17.993091,7.5947024 c -2.410504,0 -4.02552,1.3208525 -4.688999,2.5727016 h -0.06248 V 7.9967718 H 8.4928416 V 23.924698 h 4.9416514 v -7.881104 c 0,-2.078069 0.394636,-4.088611 2.972053,-4.088611 2.538472,0 2.575418,2.377273 2.575418,4.224445 v 7.74527 h 4.944368 v -8.742292 c 0,-4.29106 -0.924456,-7.5877036 -5.933241,-7.5877036 z M 0.42971935,7.9967718 V 23.924698 H 5.3876702 V 7.9967718 Z"
+     sodipodi:nodetypes="ssssssccccccsssccssccccc" />
+</svg>

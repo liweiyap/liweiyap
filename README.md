@@ -44,7 +44,7 @@ I wish to learn:
 
 Let's connect! :smile:
 <p float="left">
-  <a href="mailto:liweiyap@gmail.com"><img src="assets/gmail-grey.svg" height="40"/></a>
+  <a href="mailto:liweiyap@gmail.com"><img src="assets/gmail-resized-grey.svg" height="40"/></a>
   <a href="https://www.linkedin.com/in/liweiyap/"><img src="assets/linkedin-inverted-grey.svg" height="40"/></a>
   <a href="https://open.spotify.com/playlist/0YxZJLaybfLprUoSN1QXp9?si=4j3R2m77QiGd_3RvUxL-RA" target="_blank"><img align="right" height="40" src="assets/spotify-grey.svg"/></a>
 </p>

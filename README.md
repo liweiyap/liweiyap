@@ -3,7 +3,7 @@
 </p>
 
 <p align="justify">
-Hi, I'm Li-Wei (力为)! <img width="25px" src="assets/waving-hand.gif"> I'm a software engineer with a keen interest in Android development. My goal is to become a more creative problem solver, be it in UI design or the development of the back-end business logic.
+Hi, I'm Li-Wei (力为)! <img width="25px" src="assets/waving-hand.gif"> I'm a software engineer with a keen interest in Android development. My goal is to become a more creative problem solver, be it in UI design or in the development of the back-end business logic.
 </p>
 
 I'm comfortable in:

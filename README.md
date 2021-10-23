@@ -13,8 +13,6 @@ I'm comfortable in:
   <a href="https://en.cppreference.com/w/"><img src="assets/cplusplus-grey.svg" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="assets/gnubash-grey.svg" height="40"/></a>
   <a href="https://www.python.org/"><img src="assets/python-grey.svg" height="40"/></a>
-  <a href="https://cmake.org/"><img src="assets/cmake-grey.svg" height="40"/></a>
-  <a href="https://gradle.org/"><img src="assets/gradle-grey.svg" height="40"/></a>
   <a href="https://www.qt.io/"><img src="assets/qt-grey.svg" height="40"/></a>
   <a href="https://www.r-project.org/"><img src="assets/r-grey.svg" height="40"/></a>
   <a href="https://uk.mathworks.com/products/matlab.html"><img src="assets/mathworks-grey.svg" height="40"/></a>
@@ -28,10 +26,9 @@ I've basic knowledge of:
   <a href="https://www.sqlite.org/index.html"><img src="assets/sqlite-grey.svg" height="40"/></a>
   <a href="https://jekyllrb.com/"><img src="assets/jekyll-grey.svg" height="40"/></a>
   <a href="https://www.w3.org/Style/CSS/"><img src="assets/css3-grey.svg" height="40"/></a>
-  <a href="https://scikit-learn.org/stable/"><img src="assets/scikit-learn-grey.svg" height="40"/></a>
+  <a href="https://developer.apple.com/xcode/"><img src="assets/xcode-grey.svg" height="40"></a>
   <a href="https://inkscape.org/"><img src="assets/inkscape-grey.svg" height="40"/></a>
   <a href="https://www.gimp.org/"><img src="assets/gimp-grey.svg" height="40"/></a>
-  <a href="https://www.raspberrypi.org/"><img src="assets/raspberrypi-grey.svg" height="40"/></a>
   <a href="https://www.latex-project.org/"><img src="assets/latex-grey.svg" height="40"/></a>
 </p>
 

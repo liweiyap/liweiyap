@@ -37,7 +37,7 @@ I am also comfortable in:
   <a href="https://www.latex-project.org/"><img src="assets/latex-grey.svg" height="40"/></a>
 </p>
 
-I wish to learn:
+I have basic knowledge of:
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="assets/javascript-grey.svg" height="40"/></a>
 </p>

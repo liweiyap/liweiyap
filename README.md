@@ -3,7 +3,7 @@
 </p>
 
 <p align="justify">
-Hi, I'm Li-Wei! <img height="25px" width="25px" src="assets/waving-hand.gif"> As an Android developer with several years of experience, I always strive to further deepen my knowledge of the Android operating system, in order to be able to develop modern apps for the latest Android versions. I am passionate about UI design as well as the development of the business logic of an app. I wish to become a more creative problem solver and enjoy fixing concurrency bugs and UI glitches.
+Hi, I'm Li-Wei! <img height="25px" width="25px" src="assets/waving-hand.gif"> As an Android developer with several years of experience, I always strive to further deepen my knowledge of the Android operating system, in order to be able to develop modern apps for the latest Android versions. I am passionate about UI design as well as the development of the business logic of an app. I enjoy fixing concurrency bugs and UI glitches, and I wish to become a more creative problem solver.
 </p>
 
 I especially love to work with:

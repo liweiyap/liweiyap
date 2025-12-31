@@ -19,6 +19,8 @@ I also have professional experience with:
 <p float="left">
   <a href="https://en.cppreference.com/w/"><img src="assets/cplusplus-grey.svg" height="40"/></a>&ensp;
   <a href="https://www.gnu.org/software/bash/"><img src="assets/gnubash-grey.svg" height="40"/></a>&ensp;
+  <a href=https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html><img src="assets/objectivec-grey.svg" height="40"/></a>&ensp;
+  <a href="https://developer.apple.com/xcode/"><img src="assets/xcode-grey.svg" height="40"></a>&ensp;
   <a href="https://www.python.org/"><img src="assets/python-grey.svg" height="40"/></a>&ensp;
   <a href="https://www.qt.io/"><img src="assets/qt-grey.svg" height="40"/></a>&ensp;
   <a href="https://www.r-project.org/"><img src="assets/r-grey.svg" height="40"/></a>&ensp;
@@ -28,7 +30,6 @@ I also have professional experience with:
 I am also comfortable in:
 <p float="left">
   <a href="https://swift.org/"><img src="assets/swift-grey.svg" height="40"/></a>&ensp;
-  <a href="https://developer.apple.com/xcode/"><img src="assets/xcode-grey.svg" height="40"></a>&ensp;
   <a href="https://www.w3.org/Style/CSS/"><img src="assets/css3-grey.svg" height="40"/></a>&ensp;
   <a href="https://www.sqlite.org/index.html"><img src="assets/sqlite-grey.svg" height="40"/></a>&ensp;
   <a href="https://jekyllrb.com/"><img src="assets/jekyll-grey.svg" height="40"/></a>&ensp;
